@@ -1,0 +1,91 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Front-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 2,
+      "name": "Ahmad Tahani",
+      "sex": "Female",
+      "ocupation": "Back-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 3,
+      "name": "Ahmad Tahani",
+      "sex": "Female",
+      "ocupation": "Front-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 4,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Front-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 5,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Back-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 6,
+      "name": "Ahmad Tahani sssss",
+      "sex": "Female",
+      "ocupation": "Front-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 7,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Back-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 8,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Back-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 9,
+      "name": "Ahmad Tahani",
+      "sex": "Male",
+      "ocupation": "Front-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    },
+    {
+      "id": 10,
+      "name": "Ahmad Tahansssdsadsadsaddi",
+      "sex": "Male",
+      "ocupation": "Back-End",
+      "phone": "+55 (55) 55555-555",
+      "joinDate": "00/00/0000"
+    }
+  ]
+}
